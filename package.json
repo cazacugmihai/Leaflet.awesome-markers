@@ -4,7 +4,10 @@
     "homepage": "http://github.com/lvoogdt/Leaflet.awesome-markers",
     "version": "2.0.2",
     "author": "Lennard Voogdt <lvoogdt@gmail.com>",
-    "main": "dist/leaflet.awesome-markers.js",
+    "main": [
+  	    "dist/leaflet.awesome-markers.css",
+  	    "dist/leaflet.awesome-markers.js"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/cazacugmihai/Leaflet.awesome-markers.git"
